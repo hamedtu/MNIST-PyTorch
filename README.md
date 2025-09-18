@@ -2,6 +2,7 @@
 
 Implementation of a neural network for MNIST handwritten digit classification using PyTorch. 
 
+![MNIST Illustration](MNIST.png)
 
 ## Project Structure
 
